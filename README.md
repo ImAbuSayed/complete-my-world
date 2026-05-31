@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/complete-my-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Complete My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/complete-my-world/) |
+| **Get License** | [Music Rights & Licensing for Complete My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/complete-my-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Every time you look at me the shadows fall
+> I can feel the fire in your midnight call
+> Got my senses caught in a gentle twirl
+> Darling, only you complete my world
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
