@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/complete-my-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Complete My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/complete-my-world/) |
+| **Get License** | [License this song: Complete My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/complete-my-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c31e098bf0853eecb92b7bf0977f8873df124d7e606453e34d9a89a6a63c2023` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
